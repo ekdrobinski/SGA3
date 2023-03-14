@@ -10,3 +10,11 @@ It’s a beneficial command that will tell you everything you need to know about
 This is used to display the state of the repository and staging area. 
 It allows you to see the tracked and untracked files and changes. 
 You can also see if the branch is up to date or if there is anything to commit.
+
+git add
+
+When a file is created or changed on your local repository,
+and you want to update your remote repository,
+first use this command to ad the file to the staging area to be committed. 
+If you changed multiple files and wish to add them all at once, after “git add”,”type””-A”. 
+Git add does not change the remote repository; it only adds the files to a staging area.
