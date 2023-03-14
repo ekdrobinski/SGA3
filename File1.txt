@@ -1,0 +1,5 @@
+git init
+
+If you don’t want to clone an existing repository, 
+you can create a new local repository in the directory 
+you are currently in with this command.
