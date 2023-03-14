@@ -3,3 +3,10 @@ git init
 If you don’t want to clone an existing repository, 
 you can create a new local repository in the directory 
 you are currently in with this command.
+
+git status
+
+It’s a beneficial command that will tell you everything you need to know about the current branch and its files.
+This is used to display the state of the repository and staging area. 
+It allows you to see the tracked and untracked files and changes. 
+You can also see if the branch is up to date or if there is anything to commit.
