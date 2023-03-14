@@ -18,3 +18,9 @@ and you want to update your remote repository,
 first use this command to ad the file to the staging area to be committed. 
 If you changed multiple files and wish to add them all at once, after “git add”,”type””-A”. 
 Git add does not change the remote repository; it only adds the files to a staging area.
+
+git clone 
+
+This command creates a copy of the latest version of a repository on your computer in the directory you are currently in. 
+The original repository can be local or remote such as a GitHub repository. 
+GitHub offers a few different ways to clone a repository; a simple way is by HTTP.
